@@ -22,7 +22,7 @@ A beautifully customized FastFetch setup for Arch Linux.
 
 2. Clone this repo:
    ```bash
-   git clone https://github.com/ANGlTHUB/fastfetch-config.git
+   git clone https://github.com/4chref/fastfetch-config.git
    ```
 
 3. Copy the config:
